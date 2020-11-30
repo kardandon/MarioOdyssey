@@ -1,4 +1,4 @@
-# Mario Odyssey
+# Space Mario
 Space Mario game using Löve (Lua)
 
 ![Main Menu](https://raw.githubusercontent.com/kardandon/Mario_odyssey/main/image.png)
